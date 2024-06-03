@@ -51,8 +51,8 @@
 
 ## Hackathons 🏆
 
-- _Best use of DigitalOcean_ - FreyHacks 2022: "[SumFun](https://devpost.com/software/sumfun)"
-- _Participant_ - Hack The North 2021: "[Tax Auto](https://devpost.com/software/tax-auto)"
+- _Best use of DigitalOcean_ - FreyHacks 2022: "[SumFun]"
+- _Participant_ - Hack The North 2021: "[Tax Auto]"
 
 
 </br>
