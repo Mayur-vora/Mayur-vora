@@ -53,7 +53,7 @@
 
 - _Best use of DigitalOcean_ - FreyHacks 2022: "[SumFun](https://devpost.com/software/sumfun)"
 - _Participant_ - Hack The North 2021: "[Tax Auto](https://devpost.com/software/tax-auto)"
-- _Most Creative Hack_ - Waterloo SE26 Mini Hackathon: "[Goose Genocide](https://devpost.com/software/goose-genocide)"
+
 
 </br>
 
